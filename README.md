@@ -1,2 +1,2 @@
-# Groot_Translator
- Convert from English to Groot talk. Groot is a fictional superhero appearing in American comic books and movies by MARVEL.
+# Ferb_latin
+A fun translation app that will translate your English sentence into Ferb Latin language.
