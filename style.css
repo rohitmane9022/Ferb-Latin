@@ -1,0 +1,139 @@
+:root {
+  --primary-color: #BAACE6;
+}
+
+body {
+  font-family: 'Rubik', cursive;
+
+}
+
+* {
+  margin: 0px;
+  padding: 0x;
+  box-sizing: border-box;
+  width: 100%;
+  
+}
+
+/* .wrap{
+  width: 80%;
+  margin: auto;
+} */
+
+.talk {
+  background-color: var(--primary-color);
+  text-align: center;
+  padding: 3rem 0px;
+  font-size: 1.8rem;
+}
+
+.main {
+  width: 50%;
+  display: block;
+  margin: 4rem auto;
+
+}
+
+textarea {
+  font-family: 'Shadows Into Light', cursive;
+  border: 2px solid black;
+}
+
+button {
+  margin: 1rem auto;
+  padding: 10px 50px;
+  font-size: large;
+  background-color: var(--primary-color);
+  width: 100%;
+  max-width: 300px;
+}
+
+.Translate {
+  font-size: 1.2rem;
+}
+
+#out-put {
+
+  height: 150px;
+  border: 2px solid black;
+}
+
+.footer2 {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+
+footer {
+  background-color: var(--primary-color);
+}
+
+body {
+    font-family: 'Rubik', cursive;
+
+}
+
+* {
+    margin: 0px;
+    padding: 0x;
+    box-sizing: border-box;
+    width: 100%;
+    
+}
+
+/* .wrap{
+    width: 80%;
+    margin: auto;
+} */
+
+.talk {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 3rem 0px;
+    font-size: 1.8rem;
+}
+
+.main {
+    width: 50%;
+    display: block;
+    margin: 4rem auto;
+
+}
+
+textarea {
+    font-family: 'Shadows Into Light', cursive;
+    border: 2px solid black;
+}
+
+button {
+    margin: 1rem auto;
+    padding: 10px 50px;
+    font-size: large;
+    background-color: var(--primary-color);
+    width: 100%;
+    max-width: 300px;
+}
+
+.Translate {
+    font-size: 1.2rem;
+}
+
+#out-put {
+
+    height: 150px;
+    border: 2px solid black;
+}
+
+.footer2 {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+footer {
+    background-color: var(--primary-color);
+}
+
+.about {
+    text-align: center;
+}
